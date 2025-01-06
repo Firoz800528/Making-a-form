@@ -53,3 +53,13 @@ textarea{
 .blank:hover{
   
 }
+table{
+    border-collapse: collapse;
+}
+td, th{
+    border: 1px solid;
+    padding:5px 10px;
+}
+caption{
+    margin-bottom: 10px;
+}
